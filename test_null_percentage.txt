@@ -1,0 +1,42 @@
+Overall,0.0
+Potential,0.0
+Preferred Foot,0.0
+International Reputation,0.0
+Weak Foot,0.0
+Skill Moves,0.0
+Body Type,0.0
+Height,0.0
+Weight,0.0
+Crossing,0.0
+Finishing,0.0
+HeadingAccuracy,0.0
+ShortPassing,0.0
+Volleys,0.0
+Dribbling,0.0
+Curve,0.0
+FKAccuracy,0.0
+LongPassing,0.0
+BallControl,0.0
+Acceleration,0.0
+SprintSpeed,0.0
+Agility,0.0
+Reactions,0.0
+Balance,0.0
+ShotPower,0.0
+Jumping,0.0
+Stamina,0.0
+Strength,0.0
+LongShots,0.0
+Aggression,0.0
+Interceptions,0.0
+Positioning,0.0
+Vision,0.0
+Penalties,0.0
+StandingTackle,0.0
+SlidingTackle,0.0
+GKDiving,0.0
+GKHandling,0.0
+GKKicking,0.0
+GKPositioning,0.0
+GKReflexes,0.0
+Best Overall Rating,51.32091940645912

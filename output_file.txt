@@ -1,0 +1,67 @@
+Unnamed: 0
+ID
+Name
+Age
+Photo
+Nationality
+Flag
+Overall
+Potential
+Club
+Club Logo
+Value
+Wage
+Special
+Preferred Foot
+International Reputation
+Weak Foot
+Skill Moves
+Work Rate
+Body Type
+Real Face
+Position
+Jersey Number
+Joined
+Loaned From
+Contract Valid Until
+Height
+Weight
+Crossing
+Finishing
+HeadingAccuracy
+ShortPassing
+Volleys
+Dribbling
+Curve
+FKAccuracy
+LongPassing
+BallControl
+Acceleration
+SprintSpeed
+Agility
+Reactions
+Balance
+ShotPower
+Jumping
+Stamina
+Strength
+LongShots
+Aggression
+Interceptions
+Positioning
+Vision
+Penalties
+Composure
+Marking
+StandingTackle
+SlidingTackle
+GKDiving
+GKHandling
+GKKicking
+GKPositioning
+GKReflexes
+Best Position
+Best Overall Rating
+year
+Release Clause
+DefensiveAwareness
